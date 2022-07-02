@@ -36,6 +36,7 @@ namespace WiredBrainCoffee.ShopInfoTool
                 }
                 else
                 {
+                    Console.WriteLine("My name is Claudius");
                     Console.WriteLine("Thomas Claudius Huber");
                 }
             }
