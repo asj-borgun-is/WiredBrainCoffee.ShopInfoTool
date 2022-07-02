@@ -7,8 +7,8 @@ namespace WiredBrainCoffee.ShopInfoTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wired Brain Coffee - Shop Info Tool! With changes and even more changes.");
-
+            Console.WriteLine("Wired Brain Coffee - Shop Info Tool! With changes and even less changes.");
+            Console.WriteLine("Some other stuff here...");
             Console.WriteLine("Write 'help' to list available coffee shop commands, " +
            "write 'quit' to exit application");
 
